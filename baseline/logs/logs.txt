@@ -1,0 +1,1 @@
+训练集f1score: 0.9975验证集f1score: 0.7922 7_18_46 crf_learn -f 2 -c 12 -m 500 template01.txt d
